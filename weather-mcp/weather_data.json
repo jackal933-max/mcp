@@ -1,0 +1,383 @@
+{
+  "updated_at": "2026-10-08T08:00:00+08:00",
+  "cities": {
+    "taipei": {
+      "name": "台北",
+      "current": {
+        "date": "2026-10-08",
+        "time": "08:00",
+        "condition": "短暫陣雨",
+        "temperature": 23,
+        "feels_like": 25,
+        "humidity": 73,
+        "wind_speed_kmh": 6
+      },
+      "daily": [
+        {
+          "date": "2026-10-01",
+          "condition": "晴",
+          "temp_high": 30,
+          "temp_low": 25,
+          "humidity": 73,
+          "rain_chance": 0
+        },
+        {
+          "date": "2026-10-02",
+          "condition": "多雲",
+          "temp_high": 26,
+          "temp_low": 20,
+          "humidity": 68,
+          "rain_chance": 10
+        },
+        {
+          "date": "2026-10-03",
+          "condition": "雷陣雨",
+          "temp_high": 30,
+          "temp_low": 25,
+          "humidity": 83,
+          "rain_chance": 80
+        },
+        {
+          "date": "2026-10-04",
+          "condition": "晴",
+          "temp_high": 28,
+          "temp_low": 23,
+          "humidity": 67,
+          "rain_chance": 0
+        },
+        {
+          "date": "2026-10-05",
+          "condition": "多雲",
+          "temp_high": 26,
+          "temp_low": 21,
+          "humidity": 82,
+          "rain_chance": 10
+        },
+        {
+          "date": "2026-10-06",
+          "condition": "雷陣雨",
+          "temp_high": 26,
+          "temp_low": 18,
+          "humidity": 72,
+          "rain_chance": 80
+        },
+        {
+          "date": "2026-10-07",
+          "condition": "雷陣雨",
+          "temp_high": 28,
+          "temp_low": 21,
+          "humidity": 65,
+          "rain_chance": 80
+        },
+        {
+          "date": "2026-10-08",
+          "condition": "短暫陣雨",
+          "temp_high": 26,
+          "temp_low": 19,
+          "humidity": 73,
+          "rain_chance": 60
+        },
+        {
+          "date": "2026-10-09",
+          "condition": "多雲",
+          "temp_high": 26,
+          "temp_low": 19,
+          "humidity": 68,
+          "rain_chance": 10
+        },
+        {
+          "date": "2026-10-10",
+          "condition": "短暫陣雨",
+          "temp_high": 25,
+          "temp_low": 20,
+          "humidity": 76,
+          "rain_chance": 60
+        },
+        {
+          "date": "2026-10-11",
+          "condition": "雷陣雨",
+          "temp_high": 27,
+          "temp_low": 20,
+          "humidity": 66,
+          "rain_chance": 80
+        },
+        {
+          "date": "2026-10-12",
+          "condition": "短暫陣雨",
+          "temp_high": 30,
+          "temp_low": 25,
+          "humidity": 77,
+          "rain_chance": 60
+        },
+        {
+          "date": "2026-10-13",
+          "condition": "雷陣雨",
+          "temp_high": 25,
+          "temp_low": 18,
+          "humidity": 85,
+          "rain_chance": 80
+        },
+        {
+          "date": "2026-10-14",
+          "condition": "陰",
+          "temp_high": 29,
+          "temp_low": 23,
+          "humidity": 67,
+          "rain_chance": 30
+        }
+      ]
+    },
+    "taichung": {
+      "name": "台中",
+      "current": {
+        "date": "2026-10-08",
+        "time": "08:00",
+        "condition": "多雲",
+        "temperature": 23,
+        "feels_like": 25,
+        "humidity": 68,
+        "wind_speed_kmh": 20
+      },
+      "daily": [
+        {
+          "date": "2026-10-01",
+          "condition": "多雲",
+          "temp_high": 31,
+          "temp_low": 24,
+          "humidity": 60,
+          "rain_chance": 10
+        },
+        {
+          "date": "2026-10-02",
+          "condition": "晴",
+          "temp_high": 27,
+          "temp_low": 19,
+          "humidity": 66,
+          "rain_chance": 0
+        },
+        {
+          "date": "2026-10-03",
+          "condition": "陰",
+          "temp_high": 29,
+          "temp_low": 23,
+          "humidity": 69,
+          "rain_chance": 30
+        },
+        {
+          "date": "2026-10-04",
+          "condition": "多雲",
+          "temp_high": 28,
+          "temp_low": 21,
+          "humidity": 78,
+          "rain_chance": 10
+        },
+        {
+          "date": "2026-10-05",
+          "condition": "雷陣雨",
+          "temp_high": 26,
+          "temp_low": 20,
+          "humidity": 75,
+          "rain_chance": 80
+        },
+        {
+          "date": "2026-10-06",
+          "condition": "多雲",
+          "temp_high": 31,
+          "temp_low": 25,
+          "humidity": 72,
+          "rain_chance": 10
+        },
+        {
+          "date": "2026-10-07",
+          "condition": "陰",
+          "temp_high": 29,
+          "temp_low": 23,
+          "humidity": 68,
+          "rain_chance": 30
+        },
+        {
+          "date": "2026-10-08",
+          "condition": "多雲",
+          "temp_high": 26,
+          "temp_low": 21,
+          "humidity": 68,
+          "rain_chance": 10
+        },
+        {
+          "date": "2026-10-09",
+          "condition": "陰",
+          "temp_high": 29,
+          "temp_low": 24,
+          "humidity": 64,
+          "rain_chance": 30
+        },
+        {
+          "date": "2026-10-10",
+          "condition": "陰",
+          "temp_high": 30,
+          "temp_low": 24,
+          "humidity": 78,
+          "rain_chance": 30
+        },
+        {
+          "date": "2026-10-11",
+          "condition": "短暫陣雨",
+          "temp_high": 29,
+          "temp_low": 21,
+          "humidity": 62,
+          "rain_chance": 60
+        },
+        {
+          "date": "2026-10-12",
+          "condition": "多雲",
+          "temp_high": 28,
+          "temp_low": 22,
+          "humidity": 75,
+          "rain_chance": 10
+        },
+        {
+          "date": "2026-10-13",
+          "condition": "陰",
+          "temp_high": 30,
+          "temp_low": 22,
+          "humidity": 76,
+          "rain_chance": 30
+        },
+        {
+          "date": "2026-10-14",
+          "condition": "陰",
+          "temp_high": 29,
+          "temp_low": 23,
+          "humidity": 62,
+          "rain_chance": 30
+        }
+      ]
+    },
+    "kaohsiung": {
+      "name": "高雄",
+      "current": {
+        "date": "2026-10-08",
+        "time": "08:00",
+        "condition": "多雲",
+        "temperature": 29,
+        "feels_like": 31,
+        "humidity": 82,
+        "wind_speed_kmh": 9
+      },
+      "daily": [
+        {
+          "date": "2026-10-01",
+          "condition": "晴",
+          "temp_high": 28,
+          "temp_low": 23,
+          "humidity": 66,
+          "rain_chance": 0
+        },
+        {
+          "date": "2026-10-02",
+          "condition": "多雲",
+          "temp_high": 33,
+          "temp_low": 25,
+          "humidity": 81,
+          "rain_chance": 10
+        },
+        {
+          "date": "2026-10-03",
+          "condition": "短暫陣雨",
+          "temp_high": 28,
+          "temp_low": 20,
+          "humidity": 81,
+          "rain_chance": 60
+        },
+        {
+          "date": "2026-10-04",
+          "condition": "雷陣雨",
+          "temp_high": 31,
+          "temp_low": 24,
+          "humidity": 79,
+          "rain_chance": 80
+        },
+        {
+          "date": "2026-10-05",
+          "condition": "晴",
+          "temp_high": 28,
+          "temp_low": 21,
+          "humidity": 82,
+          "rain_chance": 0
+        },
+        {
+          "date": "2026-10-06",
+          "condition": "晴",
+          "temp_high": 30,
+          "temp_low": 23,
+          "humidity": 75,
+          "rain_chance": 0
+        },
+        {
+          "date": "2026-10-07",
+          "condition": "短暫陣雨",
+          "temp_high": 29,
+          "temp_low": 24,
+          "humidity": 70,
+          "rain_chance": 60
+        },
+        {
+          "date": "2026-10-08",
+          "condition": "多雲",
+          "temp_high": 32,
+          "temp_low": 27,
+          "humidity": 82,
+          "rain_chance": 10
+        },
+        {
+          "date": "2026-10-09",
+          "condition": "雷陣雨",
+          "temp_high": 30,
+          "temp_low": 24,
+          "humidity": 66,
+          "rain_chance": 80
+        },
+        {
+          "date": "2026-10-10",
+          "condition": "多雲",
+          "temp_high": 30,
+          "temp_low": 25,
+          "humidity": 81,
+          "rain_chance": 10
+        },
+        {
+          "date": "2026-10-11",
+          "condition": "短暫陣雨",
+          "temp_high": 30,
+          "temp_low": 25,
+          "humidity": 65,
+          "rain_chance": 60
+        },
+        {
+          "date": "2026-10-12",
+          "condition": "陰",
+          "temp_high": 30,
+          "temp_low": 24,
+          "humidity": 63,
+          "rain_chance": 30
+        },
+        {
+          "date": "2026-10-13",
+          "condition": "雷陣雨",
+          "temp_high": 29,
+          "temp_low": 24,
+          "humidity": 64,
+          "rain_chance": 80
+        },
+        {
+          "date": "2026-10-14",
+          "condition": "短暫陣雨",
+          "temp_high": 33,
+          "temp_low": 28,
+          "humidity": 79,
+          "rain_chance": 60
+        }
+      ]
+    }
+  }
+}
